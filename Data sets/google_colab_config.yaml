@@ -1,0 +1,25 @@
+
+path: '/content/gdrive/My Drive/ComputerVisionDeveloper/TrainYolov8CustomDataset/data' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: alpaca
+  0: Bread
+  1: Rice
+  2: Dosai
+  3: Pittu
+  4: Idly
+  5: Idiyappa
+  6: Briyani
+  7: Rotti
+  8: Bun
+  9: Roll
+  10: Samosa
+  11: Chicken
+  12: Egg
+  13: Green sudny
+  14: Vadai
+  15: Kottu
+  16: Fish

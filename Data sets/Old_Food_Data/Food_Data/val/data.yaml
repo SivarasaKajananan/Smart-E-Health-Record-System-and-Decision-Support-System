@@ -1,0 +1,7 @@
+train: ../drive/MyDrive/Food_Data/Images/train
+val: ../drive/MyDrive/Food_Data/Images/val
+
+
+nc: 8
+names: ['bread', 'briyani', 'dosa', 'idli' , 'idyappa', 'pittu' , 'rice' , 'rotti']
+

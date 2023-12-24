@@ -1,0 +1,6 @@
+Datasets:
+Electronic Health Records (EHR) Datasets for AI & ML Projects
+https://www.shaip.com/offerings/electronic-health-records-ehr-medical-data-catalog/
+
+Diabetes dataset (UC Urvine)
+https://archive.ics.uci.edu/dataset/34/diabetes
